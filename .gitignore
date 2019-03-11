@@ -1,0 +1,6 @@
+/.idea
+/venv
+/src/apps/*.apk
+/src/samples.py
+/src/connection-test.py
+/src/photos/*.*
